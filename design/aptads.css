@@ -1,0 +1,82 @@
+.AptAd{
+    text-align:center;
+    margin:3px;
+    font-size:110%;
+}
+
+.AptAdRow{
+    margin-bottom:3px;
+}
+
+.AptAdRowLast{
+    margin-bottom:0;
+}
+
+.AptAdCell{
+    margin-right:3px;
+}
+
+.AptAdCellLast{
+    margin-right:0;
+}
+
+.AptAdImg img{
+    border:none;
+}
+
+.AptAdMessage{
+    display: block;
+    font-size: 0.7em;
+    line-height: 0.8;
+}
+
+.AptAdMessageBox{
+    text-align:center;
+    clear: left;
+}
+
+.AptAdMessageText{
+    margin-top:20px;
+}
+
+.AptAdMessageImg{
+    margin-top:-3px;
+    margin-bottom:10px;
+}
+
+.AptAdText{
+    text-align:left;
+}
+
+.AptAdTitle{
+    margin-top: 5px;
+    font-size: 1em;
+    margin-bottom: 2px;
+    text-transform:capitalize;
+}
+
+.AptAdDescription{
+    color: #70727C;
+    font-size: 0.85em;
+    line-height: 1.2;
+}
+
+.AptAdSite{
+    font-size: 0.8em;
+    margin-bottom: 5px;
+    color: #E5466F;
+}
+
+.AptAdCol{
+    float:left;
+    word-wrap: break-word;    
+}
+
+.AptAdEnd{
+}
+
+.AptAd.AptAdAfterContent{
+    margin-top:15px;
+}
+
+

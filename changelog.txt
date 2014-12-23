@@ -1,0 +1,19 @@
+change log
+Sat Oct 27 10:56:13 BST 2012: 0.1.1b
+- image upload
+- settings block
+Fri Dec 28 12:05:07 GMT 2012: 0.1.2b
+- dynamic embed method 
+Sat Jan  5 12:10:43 GMT 2013: 0.1.5b
+- asset order error fix
+Sat Jan  5 12:10:43 GMT 2013: 0.1.6b
+- embed spaces
+- labels
+Fri Feb 15 11:42:27 GMT 2013: 0.1.7b
+- AutoPurge = better delete
+Thu Mar 14 14:56:55 GMT 2013: 0.1.9b
+- fix embedcode.js $('body').content()
+- better than $('*').content()
+- prevent iframe peremissions issues
+Tue Dec 23 09:24:24 GMT 2014
+- full 2.1 overhall

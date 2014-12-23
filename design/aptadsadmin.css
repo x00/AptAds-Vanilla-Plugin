@@ -1,0 +1,275 @@
+.Listings{
+    margin:20px;
+    font-size:11px;
+}
+
+.AdListingsAppearanceCol{
+    width:30%;
+}
+
+form span{
+    display:inline!important;
+}
+
+a.SmallButton{
+    padding: 3px 6px;
+    margin:0;
+}
+
+.PlacementListings table th, .PlacementListings table td {
+    padding: 6px 2px;
+}
+
+td.ImgSrc{
+    width:200px;
+}
+
+td.Url{
+    width:250px;
+    overflow:auto;
+}
+
+.Listings dl dt{
+    font-weight: bold;
+    float:left;
+    margin-right:2px;
+    
+}
+
+.Listings dl dd:{
+}
+
+.AptAdTabs{
+    margin-top:15px;
+}
+
+.AptAdTabs .AptAdsHelpBtn{
+    float:right;
+}
+
+.AptAdInfo{
+    font-size:0.9em;
+    width:500px;
+}
+
+.AptAdsTemplateHelp{
+    float:right;
+}
+
+.AptAdsTemplateHelpContainer{
+    float:right;
+    width:400px;
+    margin-right: 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding:5px 8px;
+    background-color:#fff;
+}
+
+.AptAdInstructions{
+    float:right;
+    margin-right: 30px;
+    margin-bottom: 20px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+
+.Configuration{
+    width:600px;
+    float:left;
+}
+
+.AptAdInstructions h5{
+    margin-left:10px;
+    padding:4px;
+    font-style:oblique;
+}
+
+.AptAdInstructions ol{
+    list-style: decimal outside none;
+    margin-left:40px;
+    margin-right:5px;
+    padding:4px;
+}
+
+.AptAdInstructions dl{
+    margin-left:20px;
+    margin-right:5px;
+    padding:4px;
+}
+
+.AptAdInstructions dt{
+    font-weight:bold;
+}
+
+.AptAdInstructions dd{
+    margin-bottom:5px;
+}
+.AptAdInstructions p{
+    margin-left:15px;
+    margin-right:5px;
+    margin-bottom:5px;
+}
+
+.AptAdInstructions dl br{
+    clear:both;
+    margin-bottom:5px;
+}
+
+.PlacementEmbed{
+    text-align:center;
+    background-color: #D3F0FF;
+    padding:5px;
+    border:1px solid #8BC1DE;
+    float: left;
+    
+}
+.AptAdDemo .AptAd,
+.AptAdDemoEmbed .AptAd{
+    margin:0;
+}
+
+.AptAdMessageText{
+    margin: 0;
+}
+
+.AptAdDemo,
+.AptAdDemoEmbed{
+}
+
+.AptAdDemo {
+    width:400px;
+    float:left;
+}
+
+.AptAdDemoEmbed{
+    margin:4px;
+}
+
+.AptAdDemoSpacer{
+    border-top:1px solid #8BC1DE;
+    padding-bottom:10px;
+    clear: both;
+}
+
+.AptAdEnd{
+    clear:right;
+}
+
+.AdDemoDetails{
+    font-size: 0.8em;
+    margin: 0;
+    padding: 2px;
+    text-align: left;
+    width: 180px;
+    position: static;
+}
+
+.AdDemoDetails span{
+    font-weight:bold;
+}
+
+.AptAdDemo,
+.AptAdDemo a{
+    cursor:move;
+}
+
+.AptAdDemoEmbed,
+.AptAdDemoEmbed a{
+    cursor:row-resize;
+}
+
+.EmbedSpaces{
+    float:right;
+    z-index:1000;
+    width: 528px;
+}
+
+.EmbedSpaces table{
+    border-spacing: 4px;
+    border-collapse: separate;
+}
+
+.EmbedSpaces table,
+.EmbedSpaces td,
+.EmbedSpaces th{
+    margin:0;
+    padding:0;
+    border:none;
+}
+
+.EmbedSpaces code{
+    position: absolute;
+}
+
+.EmbedSpaces .Embed{
+    border: 1px solid #ccc;
+    background-color: #eee;
+}
+
+.EmbedSpaces .EmbedHover{
+    border: 1px solid #ffcccc;
+    background-color: #ffdddd;
+}
+
+.EmbedSpaces .EmbedSortPlace{
+    border: 1px solid #ccccff;
+    background-color: #ddddff;
+    margin:4px;
+    float:left;
+}
+
+.EmbedSpaces .EmbedTop,
+.EmbedSpaces .EmbedBottom{
+    height: 60px;
+    width: 400px;
+}
+
+.EmbedSpaces .EmbedContent{
+    width: 400px;
+    height:10px;
+    padding:145px 0;
+    text-align: center;
+    border: 1px solid #ccc;
+}
+
+.EmbedSpaces .EmbedSide{
+    width: 120px;
+}
+
+.EmbedSpaces .EmbedCustom {
+    height: 100px;
+    width: 526px;
+}
+
+.EmbedInfo{
+    clear:right;
+    float: left;
+    margin-top:10px;
+    margin-bottom:10px;
+    width:100%;
+}
+
+.EmbedInfo .AptAdInfo{
+    width: 100%;
+}
+
+.AptAdEmbedRemove {
+    float: right;
+    line-height: 0;
+    position: relative;
+    right: 0px;
+    top: 5px;
+    cursor: pointer;
+    text-shadow: -1px 0 #fff, 0 1px #fff,1px 0 #fff, 0 -1px #fff;
+}
+
+.AddCustom {
+    cursor: pointer;
+    text-shadow: -1px 0 #fff, 0 1px #fff,1px 0 #fff, 0 -1px #fff;
+    line-height:1
+}
+
+.AptAdClear{
+    clear:both;
+}
